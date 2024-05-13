@@ -9,6 +9,10 @@ ush/config.sh
 ush/*.swp
 ush/__pycache__/
 ush/python_utils/__pycache__/
-
 __pycache__
 *.swp
+ecf/*/*.sh
+ecf/*/*aqm*
+ecf/*/*.txt
+ecf/*/tt.sh
+ecf/*/*.log
