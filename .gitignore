@@ -4,6 +4,7 @@ fix/tmp
 fix/INIT_DONE
 python_graphics/
 sorc/*/
+sorc/*.log
 !sorc/manage_externals/
 ush/config.sh
 ush/*.swp
